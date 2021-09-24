@@ -1,0 +1,7 @@
+dist
+node_modules
+coverage
+scripts/mock-dcaas-service/datasource-static
+generated
+global.d.ts
+**/*.spec.tsx
